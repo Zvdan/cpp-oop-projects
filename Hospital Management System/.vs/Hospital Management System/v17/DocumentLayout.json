@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\C\u002B\u002B community\\Hospital Management System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{12758CD4-AE09-4318-A108-2055B5C73D0B}|Hospital Management System\\Hospital Management System.vcxproj|F:\\C\u002B\u002B community\\Hospital Management System\\Hospital Management System\\Hospital Management System.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{12758CD4-AE09-4318-A108-2055B5C73D0B}|Hospital Management System\\Hospital Management System.vcxproj|solutionrelative:Hospital Management System\\Hospital Management System.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12758CD4-AE09-4318-A108-2055B5C73D0B}|Hospital Management System\\Hospital Management System.vcxproj|F:\\C\u002B\u002B community\\Hospital Management System\\Hospital Management System\\HospitalUI.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{12758CD4-AE09-4318-A108-2055B5C73D0B}|Hospital Management System\\Hospital Management System.vcxproj|solutionrelative:Hospital Management System\\HospitalUI.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12758CD4-AE09-4318-A108-2055B5C73D0B}|Hospital Management System\\Hospital Management System.vcxproj|F:\\C\u002B\u002B community\\Hospital Management System\\Hospital Management System\\HospitalUI.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{12758CD4-AE09-4318-A108-2055B5C73D0B}|Hospital Management System\\Hospital Management System.vcxproj|solutionrelative:Hospital Management System\\HospitalUI.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12758CD4-AE09-4318-A108-2055B5C73D0B}|Hospital Management System\\Hospital Management System.vcxproj|F:\\C\u002B\u002B community\\Hospital Management System\\Hospital Management System\\HospitalController.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{12758CD4-AE09-4318-A108-2055B5C73D0B}|Hospital Management System\\Hospital Management System.vcxproj|solutionrelative:Hospital Management System\\HospitalController.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12758CD4-AE09-4318-A108-2055B5C73D0B}|Hospital Management System\\Hospital Management System.vcxproj|F:\\C\u002B\u002B community\\Hospital Management System\\Hospital Management System\\HospitalController.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{12758CD4-AE09-4318-A108-2055B5C73D0B}|Hospital Management System\\Hospital Management System.vcxproj|solutionrelative:Hospital Management System\\HospitalController.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12758CD4-AE09-4318-A108-2055B5C73D0B}|Hospital Management System\\Hospital Management System.vcxproj|F:\\C\u002B\u002B community\\Hospital Management System\\Hospital Management System\\Doctor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{12758CD4-AE09-4318-A108-2055B5C73D0B}|Hospital Management System\\Hospital Management System.vcxproj|solutionrelative:Hospital Management System\\Doctor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12758CD4-AE09-4318-A108-2055B5C73D0B}|Hospital Management System\\Hospital Management System.vcxproj|F:\\C\u002B\u002B community\\Hospital Management System\\Hospital Management System\\Doctor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{12758CD4-AE09-4318-A108-2055B5C73D0B}|Hospital Management System\\Hospital Management System.vcxproj|solutionrelative:Hospital Management System\\Doctor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12758CD4-AE09-4318-A108-2055B5C73D0B}|Hospital Management System\\Hospital Management System.vcxproj|F:\\C\u002B\u002B community\\Hospital Management System\\Hospital Management System\\Patient.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{12758CD4-AE09-4318-A108-2055B5C73D0B}|Hospital Management System\\Hospital Management System.vcxproj|solutionrelative:Hospital Management System\\Patient.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12758CD4-AE09-4318-A108-2055B5C73D0B}|Hospital Management System\\Hospital Management System.vcxproj|F:\\C\u002B\u002B community\\Hospital Management System\\Hospital Management System\\Patient.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{12758CD4-AE09-4318-A108-2055B5C73D0B}|Hospital Management System\\Hospital Management System.vcxproj|solutionrelative:Hospital Management System\\Patient.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HospitalUI.cpp",
+              "DocumentMoniker": "F:\\C\u002B\u002B community\\Hospital Management System\\Hospital Management System\\HospitalUI.cpp",
+              "RelativeDocumentMoniker": "Hospital Management System\\HospitalUI.cpp",
+              "ToolTip": "F:\\C\u002B\u002B community\\Hospital Management System\\Hospital Management System\\HospitalUI.cpp",
+              "RelativeToolTip": "Hospital Management System\\HospitalUI.cpp",
+              "ViewState": "AgIAAAoBAAAAAAAAAAAYwDgBAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-06-24T20:38:54.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HospitalUI.h",
+              "DocumentMoniker": "F:\\C\u002B\u002B community\\Hospital Management System\\Hospital Management System\\HospitalUI.h",
+              "RelativeDocumentMoniker": "Hospital Management System\\HospitalUI.h",
+              "ToolTip": "F:\\C\u002B\u002B community\\Hospital Management System\\Hospital Management System\\HospitalUI.h",
+              "RelativeToolTip": "Hospital Management System\\HospitalUI.h",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAgwCAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-06-24T20:38:42.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HospitalController.cpp",
+              "DocumentMoniker": "F:\\C\u002B\u002B community\\Hospital Management System\\Hospital Management System\\HospitalController.cpp",
+              "RelativeDocumentMoniker": "Hospital Management System\\HospitalController.cpp",
+              "ToolTip": "F:\\C\u002B\u002B community\\Hospital Management System\\Hospital Management System\\HospitalController.cpp",
+              "RelativeToolTip": "Hospital Management System\\HospitalController.cpp",
+              "ViewState": "AgIAAJMAAAAAAAAAAAAgwKQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-06-24T20:38:06.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HospitalController.h",
+              "DocumentMoniker": "F:\\C\u002B\u002B community\\Hospital Management System\\Hospital Management System\\HospitalController.h",
+              "RelativeDocumentMoniker": "Hospital Management System\\HospitalController.h",
+              "ToolTip": "F:\\C\u002B\u002B community\\Hospital Management System\\Hospital Management System\\HospitalController.h",
+              "RelativeToolTip": "Hospital Management System\\HospitalController.h",
+              "ViewState": "AgIAABUAAAAAAAAAAAAgwC8AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-06-24T20:38:01.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Doctor.cpp",
+              "DocumentMoniker": "F:\\C\u002B\u002B community\\Hospital Management System\\Hospital Management System\\Doctor.cpp",
+              "RelativeDocumentMoniker": "Hospital Management System\\Doctor.cpp",
+              "ToolTip": "F:\\C\u002B\u002B community\\Hospital Management System\\Hospital Management System\\Doctor.cpp",
+              "RelativeToolTip": "Hospital Management System\\Doctor.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-06-24T20:36:44.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Doctor.h",
+              "DocumentMoniker": "F:\\C\u002B\u002B community\\Hospital Management System\\Hospital Management System\\Doctor.h",
+              "RelativeDocumentMoniker": "Hospital Management System\\Doctor.h",
+              "ToolTip": "F:\\C\u002B\u002B community\\Hospital Management System\\Hospital Management System\\Doctor.h",
+              "RelativeToolTip": "Hospital Management System\\Doctor.h",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAACQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-06-24T20:36:40.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Patient.cpp",
+              "DocumentMoniker": "F:\\C\u002B\u002B community\\Hospital Management System\\Hospital Management System\\Patient.cpp",
+              "RelativeDocumentMoniker": "Hospital Management System\\Patient.cpp",
+              "ToolTip": "F:\\C\u002B\u002B community\\Hospital Management System\\Hospital Management System\\Patient.cpp",
+              "RelativeToolTip": "Hospital Management System\\Patient.cpp",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwCEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-06-24T20:36:03.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Patient.h",
+              "DocumentMoniker": "F:\\C\u002B\u002B community\\Hospital Management System\\Hospital Management System\\Patient.h",
+              "RelativeDocumentMoniker": "Hospital Management System\\Patient.h",
+              "ToolTip": "F:\\C\u002B\u002B community\\Hospital Management System\\Hospital Management System\\Patient.h",
+              "RelativeToolTip": "Hospital Management System\\Patient.h",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAgwB8AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-06-24T20:35:58.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Hospital Management System.cpp",
+              "DocumentMoniker": "F:\\C\u002B\u002B community\\Hospital Management System\\Hospital Management System\\Hospital Management System.cpp",
+              "RelativeDocumentMoniker": "Hospital Management System\\Hospital Management System.cpp",
+              "ToolTip": "F:\\C\u002B\u002B community\\Hospital Management System\\Hospital Management System\\Hospital Management System.cpp",
+              "RelativeToolTip": "Hospital Management System\\Hospital Management System.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-06-24T20:35:33.038Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
